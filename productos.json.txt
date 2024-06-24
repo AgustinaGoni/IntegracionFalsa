@@ -1,0 +1,25 @@
+{
+  "productos": [
+    {
+      "codigo": "1",
+      "nombre": "Bandejas de papel",
+      "precio": 150,
+      "descripcion": "Bandejas de papel para freidora",
+      "stock": 100
+    },
+    {
+      "codigo": "2",
+      "nombre": "Aspiradora",
+      "precio": 3000,
+      "descripcion": "Aspiradora inteligente",
+      "stock": 5
+    },
+    {
+      "codigo": "3",
+      "nombre": "Faja",
+      "precio": 150,
+      "descripcion": "Faja lumbar con ballenas flexibles",
+      "stock": 50
+    }
+  ]
+}
