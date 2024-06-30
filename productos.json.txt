@@ -6,7 +6,7 @@
       "Nombre": "Bandejas de papel",
       "Precio": 150,
       "Descripcion": "Bandejas de papel para freidora",
-      "Stock": 99
+      "Stock": 100
     },
     {
       "Id": 2,	
