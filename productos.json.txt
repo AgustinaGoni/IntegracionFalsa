@@ -1,7 +1,6 @@
 {
   "productos": [
     {
-      "Id": 1,
       "Codigo": "1",
       "Nombre": "Bandejas de papel",
       "Precio": 150,
@@ -9,7 +8,6 @@
       "Stock": 100
     },
     {
-      "Id": 2,	
       "Codigo": "2",
       "Nombre": "Aspiradora",
       "Precio": 3000,
@@ -17,7 +15,6 @@
       "Stock": 5
     },
     {
-      "Id": 3,
       "Codigo": "3",
       "Nombre": "Faja",
       "Precio": 150,
