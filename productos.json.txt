@@ -22,67 +22,68 @@
       "Stock": 50
     },
     {
-      Codigo: 4,
-      Nombre: "Purificador de aire",
-      Precio: 5450,
-      Descripcion: "Mantenga el aire interior limpio y saludable con nuestro purificador de aire",
-      Stock: 15
+      "Codigo": 4,
+      "Nombre": "Purificador de aire",
+      "Precio": 5450,
+      "Descripcion": "Mantenga el aire interior limpio y saludable con nuestro purificador de aire",
+      "Stock": 15
     },
     {
-      Codigo: 5,
-      Nombre: "Monitor",
-      Precio: 6200,
-      Descripcion: "Monitor de alta resolución para gamers",
-      Stock: 10
+      "Codigo": 5,
+      "Nombre": "Monitor",
+      "Precio": 6200,
+      "Descripcion": "Monitor de alta resolución para gamers",
+      "Stock": 10
     },
     {
-      Codigo: 6,
-      Nombre: "Pelota de mascota",
-      Precio: 80,
-      Descripcion: "Pelota de goma para tu mascota",
-      Stock: 40
+      "Codigo": 6,
+      "Nombre": "Pelota de mascota",
+      "Precio": 80,
+      "Descripcion": "Pelota de goma para tu mascota",
+      "Stock": 40
     },
     {
-      Codigo: 7,
-      Nombre: "Smartwatch Android IOs",
-      Precio: 2300,
-      Descripcion: "Para los amantes de la tecnología y la vida saludable, un reloj inteligente es el complemento ideal de todas las actividades diarias",
-      Stock: 25
+      "Codigo": 7,
+      "Nombre": "Smartwatch Android IOs",
+      "Precio": 2300,
+      "Descripcion": "Para los amantes de la tecnología y la vida saludable, un reloj inteligente es el complemento ideal de todas las actividades diarias",
+      "Stock": 25
     },
     {
-      Codigo: 8,
-      Nombre: "Mochila",
-      Precio: 990,
-      Descripcion: "Mochila ergonómica con múltiples compartimentos",
-      Stock: 35
+      "Codigo": 8,
+      "Nombre": "Mochila",
+      "Precio": 990,
+      "Descripcion": "Mochila ergonómica con múltiples compartimentos",
+      "Stock": 35
     },
     {
-      Codigo: 9,
-      Nombre: "Teclado",
-      Precio: 2650,
-      Descripcion: "Teclado mecánico RGB para gamers",
-      Stock: 12
+      "Codigo": 9,
+      "Nombre": "Teclado",
+      "Precio": 2650,
+      "Descripcion": "Teclado mecánico RGB para gamers",
+      "Stock": 12,
+      "Categoria": "Tecnología"
     },
     {
-      Codigo: 10,
-      Nombre: "Cámara de fotos infantil",
-      Precio: 890,
-      Descripcion: "Cámara de fotos infantil con diseño divertido, para que los más chicos saquen sus propias fotos",
-      Stock: 8
+      "Codigo": 10,
+      "Nombre": "Cámara de fotos infantil",
+      "Precio": 890,
+      "Descripcion": "Cámara de fotos infantil con diseño divertido, para que los más chicos saquen sus propias fotos",
+      "Stock": 8
     },
     {
-      Codigo: 11,
-      Nombre: "Pack de 6 remeras",
-      Precio: 990,
-      Descripcion: "Remeras lisas de algodón. Colores del pack: Negro x 2, Gris x 2, Blanco x 2",
-      Stock: 30
-  },
-  {
-    Codigo: 12,
-    Nombre: "Control para tv universal",
-    Precio: 350,
-    Descripcion: "Control para tv universal, funciona en todas las marcas de tv conocidas",
-    Stock: 20
-  }
+      "Codigo": 11,
+      "Nombre": "Pack de 6 remeras",
+      "Precio": 990,
+      "Descripcion": "Remeras lisas de algodón. Colores del pack: Negro x 2, Gris x 2, Blanco x 2",
+      "Stock": 30
+    },
+    {
+      "Codigo": 12,
+      "Nombre": "Control para tv universal",
+      "Precio": 350,
+      "Descripcion": "Control para tv universal, funciona en todas las marcas de tv conocidas",
+      "Stock": 20
+    }
   ]
 }
