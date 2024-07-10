@@ -83,6 +83,146 @@
       "Precio": 350,
       "Descripcion": "Control para tv universal, funciona en todas las marcas de tv conocidas",
       "Stock": 20
+    },
+    {
+        "Codigo": 13,
+        "Nombre": "Almohada ergonómica",
+        "Precio": 1200,
+        "Descripcion": "Almohada ergonómica de espuma viscoelástica para un descanso cómodo y saludable.",
+        "Stock": 15
+    },
+    {
+        "Codigo": 14,
+        "Nombre": "Tablet 10 pulgadas",
+        "Precio": 8000,
+        "Descripcion": "Tablet de 10 pulgadas con pantalla HD y batería de larga duración.",
+        "Stock": 10
+    },
+    {
+        "Codigo": 15,
+        "Nombre": "Multivitamínico diario",
+        "Precio": 300,
+        "Descripcion": "Multivitamínico para complementar la dieta diaria y fortalecer el sistema inmunológico.",
+        "Stock": 25
+    },
+    {
+        "Codigo": 16,
+        "Nombre": "Arena para gatos",
+        "Precio": 250,
+        "Descripcion": "Arena sanitaria para gatos con alto poder de absorción y control de olores.",
+        "Stock": 50
+    },
+    {
+        "Codigo": 17,
+        "Nombre": "Protector solar SPF 50",
+        "Precio": 450,
+        "Descripcion": "Protector solar SPF 50 para proteger la piel de los dañinos rayos UV.",
+        "Stock": 30
+    },
+    {
+        "Codigo": 18,
+        "Nombre": "Taladro inalámbrico",
+        "Precio": 4500,
+        "Descripcion": "Taladro inalámbrico de 20V con batería recargable y múltiples accesorios.",
+        "Stock": 12
+    },
+    {
+        "Codigo": 19,
+        "Nombre": "Tienda de campaña para 4 personas",
+        "Precio": 6000,
+        "Descripcion": "Tienda de campaña resistente al agua para 4 personas, ideal para camping.",
+        "Stock": 8
+    },
+    {
+        "Codigo": 20,
+        "Nombre": "Set de maquillaje profesional",
+        "Precio": 3000,
+        "Descripcion": "Set de maquillaje profesional con paletas de sombras, brochas y más.",
+        "Stock": 20
+    },
+    {
+        "Codigo": 21,
+        "Nombre": "Organizador de zapatos",
+        "Precio": 750,
+        "Descripcion": "Organizador de zapatos con capacidad para 24 pares, ideal para mantener el orden en el hogar.",
+        "Stock": 22
+    },
+    {
+        "Codigo": 22,
+        "Nombre": "Auriculares inalámbricos",
+        "Precio": 2200,
+        "Descripcion": "Auriculares inalámbricos con cancelación de ruido y micrófono integrado.",
+        "Stock": 18
+    },
+    {
+        "Codigo": 23,
+        "Nombre": "Monitor de presión arterial",
+        "Precio": 1200,
+        "Descripcion": "Monitor digital de presión arterial para el cuidado de la salud en casa.",
+        "Stock": 10
+    },
+    {
+        "Codigo": 24,
+        "Nombre": "Juguete interactivo para perros",
+        "Precio": 400,
+        "Descripcion": "Juguete interactivo para perros, ideal para mantener a tu mascota entretenida y activa.",
+        "Stock": 40
+    },
+    {
+        "Codigo": 25,
+        "Nombre": "Crema hidratante facial",
+        "Precio": 350,
+        "Descripcion": "Crema hidratante facial con vitamina E y ácido hialurónico.",
+        "Stock": 35
+    },
+    {
+        "Codigo": 26,
+        "Nombre": "Caja de herramientas",
+        "Precio": 5000,
+        "Descripcion": "Caja de herramientas completa con destornilladores, llaves y más.",
+        "Stock": 7
+    },
+    {
+        "Codigo": 27,
+        "Nombre": "Silla plegable para camping",
+        "Precio": 850,
+        "Descripcion": "Silla plegable para camping, ligera y fácil de transportar.",
+        "Stock": 25
+    },
+    {
+        "Codigo": 28,
+        "Nombre": "Paleta de sombras de ojos",
+        "Precio": 1500,
+        "Descripcion": "Paleta de sombras de ojos con 24 colores vibrantes y duraderos.",
+        "Stock": 28
+    },
+    {
+        "Codigo": 29,
+        "Nombre": "Cafetera de goteo",
+        "Precio": 2000,
+        "Descripcion": "Cafetera de goteo con capacidad para 12 tazas y función de mantener caliente.",
+        "Stock": 15
+    },
+    {
+        "Codigo": 30,
+        "Nombre": "Smartwatch deportivo",
+        "Precio": 4500,
+        "Descripcion": "Smartwatch deportivo con monitor de ritmo cardíaco y GPS integrado.",
+        "Stock": 12
+    },
+    {
+        "Codigo": 31,
+        "Nombre": "Suplemento de Omega 3",
+        "Precio": 600,
+        "Descripcion": "Suplemento de Omega 3 para la salud cardiovascular y cerebral.",
+        "Stock": 30
+    },
+    {
+        "Codigo": 32,
+        "Nombre": "Rascador para gatos",
+        "Precio": 800,
+        "Descripcion": "Rascador para gatos con base estable y material resistente.",
+        "Stock": 20
     }
   ]
 }
