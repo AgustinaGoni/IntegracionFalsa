@@ -61,8 +61,7 @@
       "Nombre": "Teclado",
       "Precio": 2650,
       "Descripcion": "Teclado mecánico RGB para gamers",
-      "Stock": 12,
-      "Categoria": "Tecnología"
+      "Stock": 12
     },
     {
       "Codigo": 10,
