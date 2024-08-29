@@ -69,7 +69,7 @@
     {
       "codigo": 1,
       "descripcion": "BANDEJA DE PAPEL PARA FREIDORA DE AIRE GIT",
-      "stock": 135,
+      "stock": 2000,
       "precio": 80
     },
     {
