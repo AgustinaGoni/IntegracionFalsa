@@ -1,228 +1,562 @@
 {
-  "productos": [
+  "stock": [
     {
-      "Codigo": 1,
-      "Nombre": "Bandejas de papel",
-      "Precio": 150,
-      "Descripcion": "Bandejas de papel para freidora",
-      "Stock": 25
+      "codigo": 56,
+      "descripcion": "ACEITE DE LAVANDA 30 CC GIT ",
+      "stock": 0,
+      "precio": 0
     },
     {
-      "Codigo": 2,
-      "Nombre": "Aspiradora",
-      "Precio": 3000,
-      "Descripcion": "Aspiradora inteligente",
-      "Stock": 5
+      "codigo": 57,
+      "descripcion": "ACEITE DE LIMON 30 ML.",
+      "stock": 1,
+      "precio": 0
     },
     {
-      "Codigo": 3,
-      "Nombre": "Faja",
-      "Precio": 150,
-      "Descripcion": "Faja lumbar con ballenas flexibles",
-      "Stock": 50
+      "codigo": 54,
+      "descripcion": "ACEITE DE PINO 30 ML.",
+      "stock": 1,
+      "precio": 0
     },
     {
-      "Codigo": 4,
-      "Nombre": "Purificador de aire",
-      "Precio": 5450,
-      "Descripcion": "Mantenga el aire interior limpio y saludable con nuestro purificador de aire",
-      "Stock": 15
+      "codigo": 55,
+      "descripcion": "ACEITE DE VAINILLA 30 ML.",
+      "stock": 3,
+      "precio": 0
     },
     {
-      "Codigo": 5,
-      "Nombre": "Monitor",
-      "Precio": 6200,
-      "Descripcion": "Monitor de alta resolución para gamers",
-      "Stock": 10
+      "codigo": 71,
+      "descripcion": "AJEDREZ DE BATALLA MAGNETICA",
+      "stock": -120,
+      "precio": 0
     },
     {
-      "Codigo": 6,
-      "Nombre": "Pelota de mascota",
-      "Precio": 80,
-      "Descripcion": "Pelota de goma para tu mascota",
-      "Stock": 40
+      "codigo": 89,
+      "descripcion": "ALFOMBRA ANTIGOLPE PARA BEBE",
+      "stock": 10,
+      "precio": 0
     },
     {
-      "Codigo": 7,
-      "Nombre": "Smartwatch Android IOs",
-      "Precio": 2300,
-      "Descripcion": "Para los amantes de la tecnología y la vida saludable, un reloj inteligente es el complemento ideal de todas las actividades diarias",
-      "Stock": 25
+      "codigo": 36,
+      "descripcion": "ALFOMBRA PARA YOGA AZUL",
+      "stock": 1,
+      "precio": 338
     },
     {
-      "Codigo": 8,
-      "Nombre": "Mochila",
-      "Precio": 990,
-      "Descripcion": "Mochila ergonómica con múltiples compartimentos",
-      "Stock": 35
+      "codigo": 35,
+      "descripcion": "ALFOMBRA PARA YOGA GRIS",
+      "stock": 7,
+      "precio": 338
     },
     {
-      "Codigo": 9,
-      "Nombre": "Teclado",
-      "Precio": 2650,
-      "Descripcion": "Teclado mecánico RGB para gamers",
-      "Stock": 12
+      "codigo": 18,
+      "descripcion": "ALFOMBRA PARA YOGA LILA",
+      "stock": 3,
+      "precio": 338
     },
     {
-      "Codigo": 10,
-      "Nombre": "Cámara de fotos infantil",
-      "Precio": 890,
-      "Descripcion": "Cámara de fotos infantil con diseño divertido, para que los más chicos saquen sus propias fotos",
-      "Stock": 8
+      "codigo": 34,
+      "descripcion": "ALFOMBRA PARA YOGA NEGRA",
+      "stock": 10,
+      "precio": 338
     },
     {
-      "Codigo": 11,
-      "Nombre": "Pack de 6 remeras",
-      "Precio": 990,
-      "Descripcion": "Remeras lisas de algodón. Colores del pack: Negro x 2, Gris x 2, Blanco x 2",
-      "Stock": 30
+      "codigo": 23,
+      "descripcion": "ASPIRADORA ROBOT INTELIGENTE",
+      "stock": 7,
+      "precio": 7708
     },
     {
-      "Codigo": 12,
-      "Nombre": "Control para tv universal",
-      "Precio": 350,
-      "Descripcion": "Control para tv universal, funciona en todas las marcas de tv conocidas",
-      "Stock": 20
+      "codigo": 1,
+      "descripcion": "BANDEJA DE PAPEL PARA FREIDORA DE AIRE GIT",
+      "stock": 135,
+      "precio": 80
     },
     {
-        "Codigo": 13,
-        "Nombre": "Almohada ergonómica",
-        "Precio": 1200,
-        "Descripcion": "Almohada ergonómica de espuma viscoelástica para un descanso cómodo y saludable.",
-        "Stock": 15
+      "codigo": 50,
+      "descripcion": "BEBEDERO PARA MASCOTAS AZUL",
+      "stock": -14,
+      "precio": 575
     },
     {
-        "Codigo": 14,
-        "Nombre": "Tablet 10 pulgadas",
-        "Precio": 8000,
-        "Descripcion": "Tablet de 10 pulgadas con pantalla HD y batería de larga duración.",
-        "Stock": 10
+      "codigo": 5,
+      "descripcion": "BEBEDERO PARA MASCOTAS BLANCO",
+      "stock": -9,
+      "precio": 575
     },
     {
-        "Codigo": 15,
-        "Nombre": "Multivitamínico diario",
-        "Precio": 300,
-        "Descripcion": "Multivitamínico para complementar la dieta diaria y fortalecer el sistema inmunológico.",
-        "Stock": 25
+      "codigo": 49,
+      "descripcion": "BEBEDERO PARA MASCOTAS GRIS",
+      "stock": -14,
+      "precio": 575
     },
     {
-        "Codigo": 16,
-        "Nombre": "Arena para gatos",
-        "Precio": 250,
-        "Descripcion": "Arena sanitaria para gatos con alto poder de absorción y control de olores.",
-        "Stock": 50
+      "codigo": 72,
+      "descripcion": "BEBEDERO PARA MASCOTAS VERDE",
+      "stock": -12,
+      "precio": 575
     },
     {
-        "Codigo": 17,
-        "Nombre": "Protector solar SPF 50",
-        "Precio": 450,
-        "Descripcion": "Protector solar SPF 50 para proteger la piel de los dañinos rayos UV.",
-        "Stock": 30
+      "codigo": 93,
+      "descripcion": "BIJOU - CONJUNTO DE COLLAR Y CARAVANAS",
+      "stock": -48,
+      "precio": 0
     },
     {
-        "Codigo": 18,
-        "Nombre": "Taladro inalámbrico",
-        "Precio": 4500,
-        "Descripcion": "Taladro inalámbrico de 20V con batería recargable y múltiples accesorios.",
-        "Stock": 12
+      "codigo": 91,
+      "descripcion": "BIJOU CARAVANA",
+      "stock": -12,
+      "precio": 295
     },
     {
-        "Codigo": 19,
-        "Nombre": "Tienda de campaña para 4 personas",
-        "Precio": 6000,
-        "Descripcion": "Tienda de campaña resistente al agua para 4 personas, ideal para camping.",
-        "Stock": 8
+      "codigo": 90,
+      "descripcion": "BIJOU COLLAR",
+      "stock": -12,
+      "precio": 295
     },
     {
-        "Codigo": 20,
-        "Nombre": "Set de maquillaje profesional",
-        "Precio": 3000,
-        "Descripcion": "Set de maquillaje profesional con paletas de sombras, brochas y más.",
-        "Stock": 20
+      "codigo": 92,
+      "descripcion": "BIJOU PULSERA",
+      "stock": -36,
+      "precio": 295
     },
     {
-        "Codigo": 21,
-        "Nombre": "Organizador de zapatos",
-        "Precio": 750,
-        "Descripcion": "Organizador de zapatos con capacidad para 24 pares, ideal para mantener el orden en el hogar.",
-        "Stock": 22
+      "codigo": 70,
+      "descripcion": "BLOQUES PARA ARMAR X 1000 PCS",
+      "stock": -24,
+      "precio": 0
     },
     {
-        "Codigo": 22,
-        "Nombre": "Auriculares inalámbricos",
-        "Precio": 2200,
-        "Descripcion": "Auriculares inalámbricos con cancelación de ruido y micrófono integrado.",
-        "Stock": 18
+      "codigo": 12,
+      "descripcion": "BOLSA BLANCO TALLE 1",
+      "stock": 719,
+      "precio": 0
     },
     {
-        "Codigo": 23,
-        "Nombre": "Monitor de presión arterial",
-        "Precio": 1200,
-        "Descripcion": "Monitor digital de presión arterial para el cuidado de la salud en casa.",
-        "Stock": 10
+      "codigo": 13,
+      "descripcion": "BOLSA BLANCO TALLE 2",
+      "stock": 960,
+      "precio": 0
     },
     {
-        "Codigo": 24,
-        "Nombre": "Juguete interactivo para perros",
-        "Precio": 400,
-        "Descripcion": "Juguete interactivo para perros, ideal para mantener a tu mascota entretenida y activa.",
-        "Stock": 40
+      "codigo": 14,
+      "descripcion": "BOLSA BLANCO TALLE 3",
+      "stock": 716,
+      "precio": 0
     },
     {
-        "Codigo": 25,
-        "Nombre": "Crema hidratante facial",
-        "Precio": 350,
-        "Descripcion": "Crema hidratante facial con vitamina E y ácido hialurónico.",
-        "Stock": 35
+      "codigo": 25,
+      "descripcion": "BOLSA COLOR TALLE 1",
+      "stock": 716,
+      "precio": 0
     },
     {
-        "Codigo": 26,
-        "Nombre": "Caja de herramientas",
-        "Precio": 5000,
-        "Descripcion": "Caja de herramientas completa con destornilladores, llaves y más.",
-        "Stock": 7
+      "codigo": 26,
+      "descripcion": "BOLSA COLOR TALLE 2",
+      "stock": 959,
+      "precio": 0
     },
     {
-        "Codigo": 27,
-        "Nombre": "Silla plegable para camping",
-        "Precio": 850,
-        "Descripcion": "Silla plegable para camping, ligera y fácil de transportar.",
-        "Stock": 25
+      "codigo": 27,
+      "descripcion": "BOLSA COLOR TALLE 3",
+      "stock": 714,
+      "precio": 0
     },
     {
-        "Codigo": 28,
-        "Nombre": "Paleta de sombras de ojos",
-        "Precio": 1500,
-        "Descripcion": "Paleta de sombras de ojos con 24 colores vibrantes y duraderos.",
-        "Stock": 28
+      "codigo": 78,
+      "descripcion": "CAJA DE ACABADO PLANO PARA YESO",
+      "stock": 0,
+      "precio": 11300
     },
     {
-        "Codigo": 29,
-        "Nombre": "Cafetera de goteo",
-        "Precio": 2000,
-        "Descripcion": "Cafetera de goteo con capacidad para 12 tazas y función de mantener caliente.",
-        "Stock": 15
+      "codigo": 10,
+      "descripcion": "CEPILLO DE BAÑO MASCOTAS",
+      "stock": 340,
+      "precio": 49
     },
     {
-        "Codigo": 30,
-        "Nombre": "Smartwatch deportivo",
-        "Precio": 4500,
-        "Descripcion": "Smartwatch deportivo con monitor de ritmo cardíaco y GPS integrado.",
-        "Stock": 12
+      "codigo": 88,
+      "descripcion": "CINTA CON 50 TORNILLOS 3,5 X 25 MM",
+      "stock": -80,
+      "precio": 55
     },
     {
-        "Codigo": 31,
-        "Nombre": "Suplemento de Omega 3",
-        "Precio": 600,
-        "Descripcion": "Suplemento de Omega 3 para la salud cardiovascular y cerebral.",
-        "Stock": 30
+      "codigo": 24,
+      "descripcion": "COMPOSTERA NEGRA",
+      "stock": 10,
+      "precio": 0
     },
     {
-        "Codigo": 32,
-        "Nombre": "Rascador para gatos",
-        "Precio": 800,
-        "Descripcion": "Rascador para gatos con base estable y material resistente.",
-        "Stock": 20
+      "codigo": 15,
+      "descripcion": "CORRECTOR DE JUANETES",
+      "stock": 181,
+      "precio": 150
+    },
+    {
+      "codigo": 79,
+      "descripcion": "ENCINTADORA PARA YESO",
+      "stock": -4,
+      "precio": 1490
+    },
+    {
+      "codigo": 60,
+      "descripcion": "ESENCIAS AROMATICAS SAI-INDIA 80ML",
+      "stock": 21,
+      "precio": 0
+    },
+    {
+      "codigo": 17,
+      "descripcion": "EXTRACTOR MATERNAL MANOS LIBRES",
+      "stock": 2,
+      "precio": 2570
+    },
+    {
+      "codigo": 73,
+      "descripcion": "EXTRACTOR MATERNAL MY-376",
+      "stock": -44,
+      "precio": 1950
+    },
+    {
+      "codigo": 53,
+      "descripcion": "FAJA LUMBAR TALLE 2XL",
+      "stock": 26,
+      "precio": 525
+    },
+    {
+      "codigo": 51,
+      "descripcion": "FAJA LUMBAR TALLE L",
+      "stock": 29,
+      "precio": 525
+    },
+    {
+      "codigo": 52,
+      "descripcion": "FAJA LUMBAR TALLE XL",
+      "stock": 27,
+      "precio": 525
+    },
+    {
+      "codigo": 4,
+      "descripcion": "GORRA DE GEL PARA MIGRAÑA GIT",
+      "stock": 133,
+      "precio": 293
+    },
+    {
+      "codigo": 8,
+      "descripcion": "JABONERA CON CIERRE",
+      "stock": 0,
+      "precio": 0
+    },
+    {
+      "codigo": 69,
+      "descripcion": "JUEGO DE DESTORNILLADORES MAGNETICOS",
+      "stock": -40,
+      "precio": 0
+    },
+    {
+      "codigo": 2,
+      "descripcion": "JUGUETE PARA MASCOTAS ROBOTITO",
+      "stock": 159,
+      "precio": 406
+    },
+    {
+      "codigo": 41,
+      "descripcion": "JUGUETE PARA MASCOTAS TROMPO AMARILLO",
+      "stock": 86,
+      "precio": 332
+    },
+    {
+      "codigo": 11,
+      "descripcion": "JUGUETE PARA MASCOTAS TROMPO TURQUESA",
+      "stock": 82,
+      "precio": 332
+    },
+    {
+      "codigo": 42,
+      "descripcion": "JUGUETE PARA MASCOTAS TROMPO VERDE",
+      "stock": 83,
+      "precio": 332
+    },
+    {
+      "codigo": 66,
+      "descripcion": "LAMPARA PROYECTOR ASTRONAUTA",
+      "stock": -170,
+      "precio": 890
+    },
+    {
+      "codigo": 31,
+      "descripcion": "MACETA 10 GAL",
+      "stock": 30,
+      "precio": 0
+    },
+    {
+      "codigo": 28,
+      "descripcion": "MACETA 3 GAL",
+      "stock": 30,
+      "precio": 0
+    },
+    {
+      "codigo": 29,
+      "descripcion": "MACETA 5 GAL",
+      "stock": 100,
+      "precio": 0
+    },
+    {
+      "codigo": 30,
+      "descripcion": "MACETA 7 GAL",
+      "stock": 100,
+      "precio": 0
+    },
+    {
+      "codigo": 77,
+      "descripcion": "MANO PARA RECOGER EXCREMENTOS",
+      "stock": -18,
+      "precio": 470
+    },
+    {
+      "codigo": 47,
+      "descripcion": "MOCHILA LAPTOP CHICA AZUL",
+      "stock": 31,
+      "precio": 470
+    },
+    {
+      "codigo": 46,
+      "descripcion": "MOCHILA LAPTOP CHICA BORDO",
+      "stock": 32,
+      "precio": 470
+    },
+    {
+      "codigo": 48,
+      "descripcion": "MOCHILA LAPTOP CHICA GRIS",
+      "stock": 31,
+      "precio": 470
+    },
+    {
+      "codigo": 20,
+      "descripcion": "MOCHILA LAPTOP CHICA NEGRA",
+      "stock": 28,
+      "precio": 470
+    },
+    {
+      "codigo": 44,
+      "descripcion": "MOCHILA LAPTOP GRANDE AZUL",
+      "stock": 24,
+      "precio": 679
+    },
+    {
+      "codigo": 43,
+      "descripcion": "MOCHILA LAPTOP GRANDE BORDO",
+      "stock": 28,
+      "precio": 679
+    },
+    {
+      "codigo": 45,
+      "descripcion": "MOCHILA LAPTOP GRANDE GRIS",
+      "stock": 29,
+      "precio": 679
+    },
+    {
+      "codigo": 19,
+      "descripcion": "MOCHILA LAPTOP GRANDE NEGRA",
+      "stock": 20,
+      "precio": 679
+    },
+    {
+      "codigo": 16,
+      "descripcion": "MOTOSIERRA 5\" - BATERÍA LITIO",
+      "stock": 3,
+      "precio": 2555
+    },
+    {
+      "codigo": 39,
+      "descripcion": "NECESSAIRE DE VIAJE CRUDO",
+      "stock": 2,
+      "precio": 284
+    },
+    {
+      "codigo": 37,
+      "descripcion": "NECESSAIRE DE VIAJE MARRON",
+      "stock": 0,
+      "precio": 284
+    },
+    {
+      "codigo": 33,
+      "descripcion": "NECESSAIRE DE VIAJE NEGRO",
+      "stock": 8,
+      "precio": 284
+    },
+    {
+      "codigo": 38,
+      "descripcion": "NECESSAIRE DE VIAJE ROSA",
+      "stock": 0,
+      "precio": 284
+    },
+    {
+      "codigo": 68,
+      "descripcion": "ORGANIZADOR PARA CUBIERTOS DE COCINA",
+      "stock": -40,
+      "precio": 0
+    },
+    {
+      "codigo": 67,
+      "descripcion": "ORGANIZADOR PARA HUEVOS",
+      "stock": -120,
+      "precio": 0
+    },
+    {
+      "codigo": 94,
+      "descripcion": "PARCHE BAÑÓ PARA PERROS",
+      "stock": -2,
+      "precio": 0
+    },
+    {
+      "codigo": 62,
+      "descripcion": "PASTILLERO 1 TD",
+      "stock": -324,
+      "precio": 0
+    },
+    {
+      "codigo": 63,
+      "descripcion": "PASTILLERO 3 TD",
+      "stock": -252,
+      "precio": 0
+    },
+    {
+      "codigo": 64,
+      "descripcion": "PASTILLERO 4 TD",
+      "stock": -372,
+      "precio": 0
+    },
+    {
+      "codigo": 65,
+      "descripcion": "PASTILLERO 4 TD DESMONTABLE",
+      "stock": -240,
+      "precio": 0
+    },
+    {
+      "codigo": 3,
+      "descripcion": "PISTOLA DE TORNILLOS",
+      "stock": 9,
+      "precio": 684
+    },
+    {
+      "codigo": 86,
+      "descripcion": "POMELA 79 X 25 MM",
+      "stock": 0,
+      "precio": 0
+    },
+    {
+      "codigo": 87,
+      "descripcion": "POMELA 99 X 33 MM",
+      "stock": 0,
+      "precio": 0
+    },
+    {
+      "codigo": 74,
+      "descripcion": "RADIO DESPERTADOR BLUETOOTH G11",
+      "stock": -8,
+      "precio": 790
+    },
+    {
+      "codigo": 59,
+      "descripcion": "REDONDEO",
+      "stock": 3,
+      "precio": 0
+    },
+    {
+      "codigo": 61,
+      "descripcion": "REDONDEO",
+      "stock": 3,
+      "precio": 0
+    },
+    {
+      "codigo": 83,
+      "descripcion": "RUEDA PARA PORTON CORREDIZO 100MM",
+      "stock": -14,
+      "precio": 14
+    },
+    {
+      "codigo": 84,
+      "descripcion": "RUEDA PARA PORTON CORREDIZO 120MM",
+      "stock": 0,
+      "precio": 20
+    },
+    {
+      "codigo": 80,
+      "descripcion": "RUEDA PARA PORTON CORREDIZO 50MM",
+      "stock": -4,
+      "precio": 4
+    },
+    {
+      "codigo": 81,
+      "descripcion": "RUEDA PARA PORTON CORREDIZO 60MM",
+      "stock": -4,
+      "precio": 5
+    },
+    {
+      "codigo": 82,
+      "descripcion": "RUEDA PARA PORTON CORREDIZO 80MM",
+      "stock": -4,
+      "precio": 8.5
+    },
+    {
+      "codigo": 6,
+      "descripcion": "SELLO DE UÑAS",
+      "stock": 0,
+      "precio": 0
+    },
+    {
+      "codigo": 9,
+      "descripcion": "SET DE INSTRUMENTOS DENTALES",
+      "stock": 39,
+      "precio": 690
+    },
+    {
+      "codigo": 7,
+      "descripcion": "SILICONA ANTIESTATICA",
+      "stock": 97,
+      "precio": 575
+    },
+    {
+      "codigo": 21,
+      "descripcion": "TAPONES DE SILICONA",
+      "stock": 0,
+      "precio": 0
+    },
+    {
+      "codigo": 58,
+      "descripcion": "TENDEDERO",
+      "stock": 4,
+      "precio": 990
+    },
+    {
+      "codigo": 75,
+      "descripcion": "VAPORIZADOR A CONTROL REMOTO FOGON BLANCO",
+      "stock": 0,
+      "precio": 0
+    },
+    {
+      "codigo": 76,
+      "descripcion": "VAPORIZADOR A CONTROL REMOTO FOGON NEGRO",
+      "stock": 0,
+      "precio": 0
+    },
+    {
+      "codigo": 32,
+      "descripcion": "VAPORIZADOR, DIFUSOR DE ESENCIAS NOGAL OSCURO",
+      "stock": -11,
+      "precio": 329
+    },
+    {
+      "codigo": 40,
+      "descripcion": "VAPORIZADOR, DIFUSOR DE ESENCIAS ROBLE CLARO",
+      "stock": -3,
+      "precio": 329
+    },
+    {
+      "codigo": 85,
+      "descripcion": "VELADORA LED TACTIL",
+      "stock": -1,
+      "precio": 1390
     }
   ]
 }
