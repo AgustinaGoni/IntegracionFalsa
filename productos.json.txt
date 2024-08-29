@@ -237,7 +237,7 @@
     {
       "codigo": 4,
       "descripcion": "GORRA DE GEL PARA MIGRAÑA GIT",
-      "stock": 133,
+      "stock": 130,
       "precio": 293
     },
     {
