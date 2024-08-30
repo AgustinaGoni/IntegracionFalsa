@@ -558,5 +558,12 @@
       "stock": -1,
       "precio": 1390
     }
+
+    {
+      "codigo": 95,
+      "descripcion": "VELADORA LED TACTIL MULTICOLOR",
+      "stock": 1590,
+      "precio": 1390
+    }
   ]
 }
