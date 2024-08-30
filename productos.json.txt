@@ -27,7 +27,7 @@
     {
       "codigo": 71,
       "descripcion": "AJEDREZ DE BATALLA MAGNETICA",
-      "stock": 90,
+      "stock": 85,
       "precio": 1350
     },
     {
@@ -561,7 +561,7 @@
     {
       "codigo": 95,
       "descripcion": "VELADORA LED TACTIL MULTICOLOR",
-      "stock": 1590,
+      "stock": 1580,
       "precio": 1390
     }
   ]
