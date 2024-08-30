@@ -27,7 +27,7 @@
     {
       "codigo": 71,
       "descripcion": "AJEDREZ DE BATALLA MAGNETICA",
-      "stock": 80,
+      "stock": 75,
       "precio": 1350
     },
     {
