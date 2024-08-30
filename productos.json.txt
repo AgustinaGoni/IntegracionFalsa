@@ -27,7 +27,7 @@
     {
       "codigo": 71,
       "descripcion": "AJEDREZ DE BATALLA MAGNETICA",
-      "stock": 100,
+      "stock": 90,
       "precio": 1350
     },
     {
@@ -261,7 +261,7 @@
     {
       "codigo": 41,
       "descripcion": "JUGUETE PARA MASCOTAS TROMPO AMARILLO",
-      "stock": 86,
+      "stock": 80,
       "precio": 332
     },
     {
