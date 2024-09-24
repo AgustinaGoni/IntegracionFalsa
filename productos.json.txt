@@ -99,25 +99,25 @@
     {
       "codigo": 93,
       "descripcion": "BIJOU - CONJUNTO DE COLLAR Y CARAVANAS",
-      "stock": -48,
-      "precio": 0
+      "stock": 48,
+      "precio": 570
     },
     {
       "codigo": 91,
       "descripcion": "BIJOU CARAVANA",
-      "stock": -12,
+      "stock": 12,
       "precio": 295
     },
     {
       "codigo": 90,
       "descripcion": "BIJOU COLLAR",
-      "stock": -12,
+      "stock": -2,
       "precio": 295
     },
     {
       "codigo": 92,
       "descripcion": "BIJOU PULSERA",
-      "stock": -36,
+      "stock": 36,
       "precio": 295
     },
     {
