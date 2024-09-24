@@ -286,19 +286,19 @@
       "codigo": 31,
       "descripcion": "MACETA 10 GAL",
       "stock": 30,
-      "precio": 0
+      "precio": 450
     },
     {
       "codigo": 28,
       "descripcion": "MACETA 3 GAL",
       "stock": 30,
-      "precio": 0
+      "precio": 275
     },
     {
       "codigo": 29,
       "descripcion": "MACETA 5 GAL",
       "stock": 100,
-      "precio": 0
+      "precio": 360
     },
     {
       "codigo": 30,
