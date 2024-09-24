@@ -177,7 +177,7 @@
     {
       "codigo": 88,
       "descripcion": "CINTA CON 50 TORNILLOS 3,5 X 25 MM",
-      "stock": -80,
+      "stock": 80,
       "precio": 55
     },
     {
@@ -471,20 +471,20 @@
     {
       "codigo": 83,
       "descripcion": "RUEDA PARA PORTON CORREDIZO 100MM",
-      "stock": -14,
-      "precio": 14
+      "stock": 14,
+      "precio": 190
     },
     {
       "codigo": 84,
       "descripcion": "RUEDA PARA PORTON CORREDIZO 120MM",
-      "stock": 0,
-      "precio": 20
+      "stock": 100,
+      "precio": 250
     },
     {
       "codigo": 80,
       "descripcion": "RUEDA PARA PORTON CORREDIZO 50MM",
-      "stock": -4,
-      "precio": 4
+      "stock": 144,
+      "precio": 123
     },
     {
       "codigo": 81,
